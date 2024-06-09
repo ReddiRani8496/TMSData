@@ -1,20 +1,18 @@
-{
-  "roles": [
-    {
-      "rolename": "RTO",
-      "description": "RTO"
-    },
-    {
-      "rolename": "Admin",
-      "description": "Admin"
-    },
-    {
-      "rolename": "Cop",
-      "description": "Cop"
-    },
-    {
-      "rolename": "Clerk",
-      "description": "Clerk"
-    }
-  ]
-}
+[
+  {
+    "rolename": "RTO",
+    "description": "RTO"
+  },
+  {
+    "rolename": "Admin",
+    "description": "Admin"
+  },
+  {
+    "rolename": "Cop",
+    "description": "Cop"
+  },
+  {
+    "rolename": "Clerk",
+    "description": "Clerk"
+  }
+]
